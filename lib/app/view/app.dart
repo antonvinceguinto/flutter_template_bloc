@@ -8,7 +8,7 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final theme = GPTTheme.lightTheme();
+    final theme = GPTTheme.darkTheme();
 
     return MaterialApp(
       theme: theme,

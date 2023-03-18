@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class GPTTheme {
-  static ThemeData lightTheme() {
+  static ThemeData darkTheme() {
     return ThemeData.dark().copyWith(
       scaffoldBackgroundColor: const Color(0xFF1A1A2E),
       appBarTheme: const AppBarTheme(

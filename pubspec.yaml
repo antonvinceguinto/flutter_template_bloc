@@ -18,7 +18,7 @@ dependencies:
 
 dev_dependencies:
   auto_route_generator:
-  bloc_test: ^9.1.1
+  bloc_test: ^9.1.2
   build_runner:
 
   flutter_test:

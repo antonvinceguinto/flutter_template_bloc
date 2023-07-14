@@ -8,7 +8,7 @@ environment:
   sdk: '>=2.18.0 <3.3.10'
 
 dependencies:
-  auto_route: ^5.0.4
+  auto_route: ^7.1.0
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.3
